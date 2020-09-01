@@ -1,5 +1,5 @@
 # pygerke
-a colection of morse code tools and examples for python
+a colection of morse code tools and examples and toys for python. This can be used to implement morse code related functions to other programs and learning tools.
 pygerke is named after Friedrich Clemens Gerke, the man who simplified and improved the morse code developed by Alfred Veil. He defined the international morse code, we use today.
 
 ## pygerke.py
